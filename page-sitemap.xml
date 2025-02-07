@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/gilbert/</loc>
-		<lastmod>2025-02-06T03:27:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/tempe/</loc>
-		<lastmod>2025-02-06T03:27:43+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/peoria/</loc>
-		<lastmod>2025-02-06T03:27:43+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/scottsdale/</loc>
-		<lastmod>2025-02-06T03:27:42+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/glendale/</loc>
-		<lastmod>2025-02-06T03:27:42+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gilbert/</loc>
+		<lastmod>2025-02-07T01:54:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mesa/</loc>
-		<lastmod>2025-02-06T03:27:41+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/chandler/</loc>
-		<lastmod>2025-02-06T03:27:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/prescott-valley/</loc>
-		<lastmod>2025-02-06T03:27:41+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/tucson/</loc>
-		<lastmod>2025-02-06T03:27:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/oro-valley/</loc>
-		<lastmod>2025-02-06T03:27:40+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/maricopa/</loc>
-		<lastmod>2025-02-06T03:27:40+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/lake-havasu-city/</loc>
-		<lastmod>2025-02-06T03:27:39+00:00</lastmod>
+		<loc>/prescott-valley/</loc>
+		<lastmod>2025-02-07T01:54:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/oro-valley/</loc>
+		<lastmod>2025-02-07T01:54:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sierra-vista/</loc>
-		<lastmod>2025-02-06T03:27:39+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/casa-grande/</loc>
-		<lastmod>2025-02-06T03:27:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/goodyear/</loc>
-		<lastmod>2025-02-06T03:27:38+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/flagstaff/</loc>
-		<lastmod>2025-02-06T03:27:38+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/surprise/</loc>
-		<lastmod>2025-02-06T03:27:37+00:00</lastmod>
+		<loc>/casa-grande/</loc>
+		<lastmod>2025-02-07T01:54:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/yuma/</loc>
-		<lastmod>2025-02-06T03:27:37+00:00</lastmod>
+		<loc>/lake-havasu-city/</loc>
+		<lastmod>2025-02-07T01:54:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/avondale/</loc>
-		<lastmod>2025-02-06T03:27:37+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/goodyear/</loc>
+		<lastmod>2025-02-07T01:54:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/surprise/</loc>
+		<lastmod>2025-02-07T01:54:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/yuma/</loc>
+		<lastmod>2025-02-07T01:54:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/phoenix/</loc>
-		<lastmod>2025-02-06T03:27:36+00:00</lastmod>
+		<lastmod>2025-02-07T01:54:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
